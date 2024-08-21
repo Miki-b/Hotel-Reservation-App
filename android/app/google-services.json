@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428329879965",
+    "project_id": "fir-4dbab",
+    "storage_bucket": "fir-4dbab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428329879965:android:3f057ff8cbae083d3d8774",
+        "android_client_info": {
+          "package_name": "com.abrehotsolutions.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRnRSBaxEGqFBfBu2Gmuu7Q6EgMomdq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
