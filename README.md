@@ -54,22 +54,6 @@ flutter pub get
 
 flutter run
 
-##Project Structure
-Hotel-Reservation-App/
-├── lib/
-│   ├── models/            # Data models for the app
-│   ├── screens/           # UI screens for different app pages
-│   ├── services/          # API services, Firebase interactions, and data handling
-│   ├── widgets/           # Reusable UI components like buttons, cards, etc.
-│   ├── utils/             # Utility functions, constants, and helpers
-│   └── main.dart          # The main entry point of the application
-├── assets/                # Images, icons, and other assets used in the app
-├── android/               # Android-specific files
-├── ios/                   # iOS-specific files
-├── test/                  # Unit and widget tests
-├── pubspec.yaml           # Project configuration and dependencies
-└── README.md              # Project description and setup instructions
-
 
 ##Contact
 For any inquiries or feedback, please contact:
