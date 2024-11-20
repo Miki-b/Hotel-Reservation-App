@@ -5,37 +5,53 @@ A new Flutter project.
 ## Overview
 The Room Reservation App is a mobile application built using Flutter that provides a convenient platform for booking hotel rooms, guest houses, and pensions. This app aims to streamline the reservation process, making it efficient, user-friendly, and accessible for tourists, travelers, festival attendees, and anyone needing accommodation. It addresses the current challenges of inefficient, tiresome, time-consuming, and unsatisfying reservation methods in Ethiopia.
 
-##Features
+**Features**
 
-###Search by Location: 
+**Search by Location**: 
 Easily search for available rooms based on location, using an integrated map view.
-###Filter Functionality:
+
+**Filter Functionality**:
 Apply multiple filters (price, amenities, room type, etc.) for a tailored search experience.
-###Room Details: 
+
+**Room Details**: 
 View detailed information about each room, including images, pricing, amenities, and reviews.
-###Real-Time Availability: 
+
+**Real-Time Availability**: 
 Check real-time room availability and make instant bookings.
-###Profile Management: 
+
+**Profile Management**: 
 Create and manage user profiles to save booking preferences, history, and favorite hotels.
-###Hotel Owner Portal: 
+
+**Hotel Owner Portal**: 
 A dedicated portal for service providers (hotels, guest houses, pensions) to manage room listings, availability, and bookings.
-###Contact Center: 
+
+**Contact Center**: 
 A built-in contact center for direct communication with the hotel.
-###Firebase Integration: 
+
+**Firebase Integration**: 
 Secure data storage for user information, room data, and image uploads.
-###Telegram Mini App Integration: 
+
+**Telegram Mini App Integration**: 
 Allow bookings through a Telegram bot, catering to a broader Ethiopian audience.
 
-##Tech Stack
+**Tech Stack**
 
 Frontend: Flutter
+
 Backend: REST API / Firebase
+
 Database: Firestore
+
 Authentication: Firebase Authentication
+
 Maps Integration: Google Maps API
+
 Cloud Storage: Firebase Storage
+
 Notifications: Firebase Cloud Messaging (FCM)
-Installation
+
+**Installation**
+
 To run the app locally, follow these steps:
 
 ###Clone the repository:
@@ -55,10 +71,13 @@ flutter pub get
 flutter run
 
 
-##Contact
+**contact**
 For any inquiries or feedback, please contact:
 
 Name: Michael Behailu
+
 Email: [your Email](michaelbehailu0@gmail.com)
+
 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/michael-behailu-20ab05287/)
+
 GitHub: [Your GitHub](https://github.com/Miki-b)
