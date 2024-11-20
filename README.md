@@ -69,9 +69,18 @@ flutter pub get
 ###Run the app:
 
 flutter run
+**Preview**
 
+![photo_2024-09-14_20-54-39](https://github.com/user-attachments/assets/0a3346c3-b706-4652-852c-1fc73ab21b15)
+
+![photo_2024-09-14_20-52-19](https://github.com/user-attachments/assets/ec86ead3-8642-42e7-9143-3163d1bd2115)
+
+![photo_2024-09-14_20-52-05](https://github.com/user-attachments/assets/8f96cac0-81ef-4345-be77-150056efe03d)
+
+![photo_2024-09-14_20-52-36](https://github.com/user-attachments/assets/41aef27c-bfb4-4985-8b24-b147fceb8e71)
 
 **contact**
+
 For any inquiries or feedback, please contact:
 
 Name: Michael Behailu
